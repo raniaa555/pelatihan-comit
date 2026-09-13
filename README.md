@@ -1,1 +1,1 @@
-# pelatihan-comit-day-1
+# pelatihan-comit
